@@ -1,0 +1,13 @@
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\bin\Debug\ExecBatch.exe.config
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\bin\Debug\ExecBatch.exe
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\bin\Debug\ExecBatch.pdb
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\obj\Debug\ExecBatch.csprojResolveAssemblyReference.cache
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\obj\Debug\ExecBatch.exe
+C:\Users\alverer\documents\visual studio 2013\Projects\ExecuteBatch\ExecBatch\obj\Debug\ExecBatch.pdb
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\bin\Debug\ExecBatch.exe.config
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\obj\Debug\ExecBatch.exe
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\obj\Debug\ExecBatch.pdb
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\bin\Debug\batch.conf
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\bin\Debug\ExecBatch.exe
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\bin\Debug\ExecBatch.pdb
+C:\Users\alverer\Documents\Visual Studio 2013\Projects\ExecuteBatch\New folder\ExecBatch\obj\Debug\ExecBatch.csprojResolveAssemblyReference.cache
